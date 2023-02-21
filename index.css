@@ -1,0 +1,266 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#cards{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+#cards{ width: 100%;
+
+}
+.card{
+    width: 23%;
+    box-shadow: 0 0 4px 3px pink;
+    text-align: center;
+    padding: 1.5cm;
+    margin-bottom: 2cm;
+}
+.title{
+    font-size: 1.3rem;
+}
+.top{
+    background-color: black;
+    color: white;
+    width: 100%;
+   
+}
+.containee{
+
+    width: 80%;
+    height: 60px;
+    background-color: rgb(9, 9, 105);
+    cursor: pointer;
+    position: fixed;
+}
+
+.imp img{width: 100px;
+    height: 60px;
+    margin-left: 100px;
+
+}
+.imp1{
+    margin-left: 450px;
+    padding-top: 22px;
+    cursor: pointer;
+   
+
+}
+.imp1 a{
+    font-size: large;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: white;
+   margin-left: 50px;
+   cursor: pointer;}
+   
+.top1{
+    display: flex;
+    ;
+}
+.top2{
+    margin-left: 700px;
+
+}
+.topp{
+    margin-left: 20px;
+}
+.category,.price{
+    font-weight: bold;
+    text-transform: capitalize;
+    margin: 1cm;
+    font-size: 0px ;
+}
+.span{
+    color: white;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    cursor: pointer;
+    margin-left: 80px;}
+.images{
+    width: 80%;
+}
+#cards{
+
+    height: 500px;
+    padding-top: 120px;
+
+}
+.text-white h4,.h5{
+    color: white;
+}
+.text-muted,.span{
+    color: white;
+}
+
+.footer1{
+    width: 100%;
+    height: 400px;
+padding-top: 100px;
+cursor: pointer; 
+
+  
+}
+.foot img{
+width: 110px;
+height: 70px;
+margin-left: 600px;
+
+
+ 
+}
+.foot h6{
+    margin-left: 500px;
+    color: white;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+    padding-top: 60px;
+}
+.foot{
+    background-color: black;
+    height: 500px;
+}
+.line hr{
+    color:white;
+    width: 80%;
+    margin-left: 90px;
+}
+.inner{
+    display: flex;
+    color: white;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.inner1{
+    display: flex;
+    text-decoration: none;
+}
+.inner3 a{
+    color: white;
+    text-decoration: none;
+
+}
+.inner2 a{
+    color: white;
+    text-decoration: none;
+}
+.inner1 a{
+    color: white;
+    text-decoration: none;
+}
+.pline{
+    color: white;
+    width: 80%;
+    margin-left: 100px;
+    padding-top: 130px;
+}
+.end{
+    margin-left: 700px;
+    color: brown;
+}
+#carouselExampleSlidesOnly{
+    padding-top: 60px;
+}
+.abut{
+    padding-top: 60px;
+    width: 100%;
+    height: 20px;
+    background-color:green;
+}
+.abut h1{
+    background-color:#FC6701;
+  
+
+}
+.writ{
+  padding-top: 60px;
+  width: 80%;
+  display: flex;
+ justify-content: space-around;
+  align-items: center;
+  margin-left: 80px;
+}
+
+.writ img{
+    width: 50%;
+    height: auto;
+    padding-top: 40px;
+}
+    
+.writ h6{
+    width: 30%;
+    padding-top: 90px;
+}
+#contact {
+    padding: 50px;
+    text-align: center;
+}
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  label {
+    margin: 10px;
+    font-size: 18px;
+  }
+  
+  input, textarea {
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    font-size: 18px;
+  }
+  .write1{
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 70px;
+  }
+
+  .write1 h5{
+    margin-left: 200px;
+    font-size: medium;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+  
+  .van1{
+    padding-top: 20px;
+    width: 80%;
+
+  }
+  .van1 h6{
+    font-size: medium;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  

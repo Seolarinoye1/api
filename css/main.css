@@ -1,0 +1,5 @@
+*{margin: o;padding: 0;}
+.my-container{
+    width: 100%;height: 400px;background-image: url('../img/front\ pages.jpg');
+    background-repeat: no-repeat;background-position: center;background-size: cover;
+}
